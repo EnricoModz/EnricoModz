@@ -1,4 +1,4 @@
-e## Hello World
+## Hello World
 
 - 👨‍🎓 Terminando o Curso Técnico de Desenvolvimento de Sistemas
 - 👨‍💻 Estudando JavaScript e PHP
