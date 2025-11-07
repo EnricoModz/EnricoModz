@@ -1,7 +1,7 @@
 ## Hello World
 
 - 👨‍🎓 Terminando o Curso Técnico de Desenvolvimento de Sistemas
-- 👨‍💻 Estudando JavaScript e PHP
+- 👨‍💻 Estudando JavaScript e BackEnd
 
 - <div align="center">
   <a href="https://github.com/EnricoModz">
