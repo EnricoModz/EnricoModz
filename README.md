@@ -3,6 +3,13 @@
 - 👨‍🎓 Terminando o Curso Técnico de Desenvolvimento de Sistemas
 - 👨‍💻 Estudando JavaScript e PHP
 
+- <div align="center">
+  <a href="https://github.com/Ton44131">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ton44131&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ton44131&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
+</div>
+
 <h3 align="center">🚀 Tecnologias e Linguagens que Utilizo</h3>
 
 <div align="center">
