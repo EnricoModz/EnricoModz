@@ -4,9 +4,9 @@
 - 👨‍💻 Estudando JavaScript e PHP
 
 - <div align="center">
-  <a href="https://github.com/Ton44131">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ton44131&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ton44131&layout=compact&langs_count=16&theme=dracula"/>
+  <a href="https://github.com/EnricoModz">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EnricoModz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnricoModz&layout=compact&langs_count=16&theme=dracula"/>
   </a>
 </div>
 
