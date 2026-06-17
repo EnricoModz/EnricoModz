@@ -1,7 +1,7 @@
 ## Hello World
 
-- 👨‍🎓 Terminando o Curso Técnico de Desenvolvimento de Sistemas
-- 👨‍💻 Estudando JavaScript e BackEnd
+- 👨‍🎓 Curso Técnico de Desenvolvimento de Sistemas pelo Senai 
+- 👨‍💻 Estudando JavaScript, BackEnd, FrontEnd, Python
 
 - <div align="center">
   <a href="https://github.com/EnricoModz">
