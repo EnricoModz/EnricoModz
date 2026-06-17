@@ -1,6 +1,7 @@
 ## Hello World
 
-- 👨‍🎓 Curso Técnico de Desenvolvimento de Sistemas pelo Senai 
+- 👨‍🎓 Curso Técnico de Desenvolvimento de Sistemas pelo Senai
+- 👨‍🎓 Cursando Cibersegurança, pela faculdade Senai
 - 👨‍💻 Estudando JavaScript, BackEnd, FrontEnd, Python
 
 - <div align="center">
